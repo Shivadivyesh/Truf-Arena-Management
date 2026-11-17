@@ -103,9 +103,9 @@ This project is a frontend demonstration developed using HTML, CSS, and JavaScri
 
 👨‍💻 Author
 
-Farha Fathima Mehraj J
+Shivadivyesh.S.V
 
-Bachelor of Engineering – Computer Science and Engineering
+Bachelor of Engineering – Electornics and Communication Engineering
 
 Sri Ramakrishna Institute of Technology, Coimbatore.
 
